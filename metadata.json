@@ -1,0 +1,6 @@
+{
+  "name": "Packd Smart Quote",
+  "description": "เครื่องคำนวณค่าขนส่งประเมินราคาพรีเมียมสาหรับบริษัท แพ็คดี จำกัด ผู้ให้บริการขนส่งโลจิสติกส์ทางถนน B2B",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
